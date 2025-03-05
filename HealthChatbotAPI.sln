@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthChatbotAPI", "HealthChatbotAPI\HealthChatbotAPI.csproj", "{2A097BD4-98D2-4A1F-8FA7-8CF59BFD2C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A097BD4-98D2-4A1F-8FA7-8CF59BFD2C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A097BD4-98D2-4A1F-8FA7-8CF59BFD2C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A097BD4-98D2-4A1F-8FA7-8CF59BFD2C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A097BD4-98D2-4A1F-8FA7-8CF59BFD2C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85718908-B838-4C7A-A335-FC63DDF32DBF}
+	EndGlobalSection
+EndGlobal
